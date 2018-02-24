@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">标签打印</string>
+    <string name="stprinter_print_success">打印成功！</string>
+    <string name="stprinter_print_failed">打印失败！</string>
+    <string name="stprinter_print_param_error">参数错误！</string>
+    <string name="stprinter_connect_failed">打印机链接失败！</string>
+    <string name="aos_huoqiandayin_title">转运路由标签打印</string>
+    <string name="aos_qiandandayin_title">原单识别标签打印</string>
+    <string name="aos_xinxiqiandayin_title">商品识别标签打印</string>
+    <string name="aos_old_title">老标签打印</string>
+
+</resources>
